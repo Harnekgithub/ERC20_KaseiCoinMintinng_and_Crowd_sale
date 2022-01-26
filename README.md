@@ -1,14 +1,14 @@
-# ERC20KaseiCoin Mintinng and Crowd sale
+# ERC20 KaseiCoin Mintinng and Crowd sale
 
 Minting a Kasei Coin to be used on Mars using ERC20 and Crowdsale
 
 ##### Deployed the KaseiCoin constructor Compilation
 
-![alt""](Evaluation_Evidence/KaseiCoin_Constructor_Compilation.PNG)
+![alt""](Evaluation_Evidence/KaseiCoin_Constructor_Compilation.png)
 
 ##### Deployed the KaseiCoinCrowdsale constructor Compilation
 
-![alt""](Evaluation_Evidence/KaseiCoin_CrowedSake_Compilation.PNG)
+![alt""](Evaluation_Evidence/KaseiCoin_CrowedSake_Compilation.png)
 
 ##### Deploying the Deployer contract
 
@@ -16,15 +16,15 @@ Minting a Kasei Coin to be used on Mars using ERC20 and Crowdsale
 
 ##### Deployed the Deployer contract
 
-![alt""](Evaluation_Evidence/KasieCoinDeployed.PNG)
+![alt""](Evaluation_Evidence/DeployedContract.PNG)
 
 ##### Deployed the KaseiCoinCrowdsale contract
 
-![alt""](Evaluation_Evidence/KaseiCoin_CrowedSake_Compilation.PNG)
+![alt""](Evaluation_Evidence/KaseiCoin_CrowedSake_Compilation.png)
 
 ##### Deployed all the contract
 
-![alt""](Evaluation_Evidence/AllThreeContractsDeployed.PNG)
+![alt""](Evaluation_Evidence/AllThreeContractsDeployed.png)
 
 ##### Buying 5 tokens
 
